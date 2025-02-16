@@ -1,0 +1,12 @@
+name: marketshare_af
+title: marketshare_af
+username: effson
+account: effson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13093628
+bundleId: 9651011
+url: https://effson.shinyapps.io/marketshare_af/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

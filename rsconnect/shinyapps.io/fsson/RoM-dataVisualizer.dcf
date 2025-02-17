@@ -1,0 +1,13 @@
+name: RoM-dataVisualizer
+title: RoM-dataVisualizer
+username: fsson
+account: fsson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14017384
+bundleId: 9811315
+url: https://fsson.shinyapps.io/RoM-dataVisualizer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|.RData|data/raw/af_data.xlsx|fetch_and_clean.R|README.md
